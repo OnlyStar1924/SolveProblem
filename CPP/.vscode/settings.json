@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "__bit_reference": "cpp",
+        "algorithm": "cpp",
+        "cmath": "cpp",
+        "chrono": "cpp",
+        "iosfwd": "cpp",
+        "iostream": "cpp",
+        "ratio": "cpp",
+        "ios": "cpp",
+        "ostream": "cpp"
+    }
+}
